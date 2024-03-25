@@ -1,1 +1,1 @@
-# Twitter_sentiment_analysis
+This model analyzes a given tweet and tells us the sentiment which is based on three parameters: Negative, Neutral and Positive. I have made a customized model with the help of LSTM and achieved an accuracy of 91%.
